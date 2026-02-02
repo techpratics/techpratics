@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**techpratics/techpratics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, somos a **Pratics** :]
+Somos uma empresa de **engenharia e tecnologia** focada em transformar ideias em **soluções práticas, eficientes e escaláveis**. Atuamos no desenvolvimento de soluções tecnológicas sob medida, combinando **inovação, excelência técnica e foco em resultados reais** para nossos clientes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que fazemos?
+
+* Desenvolvimento de soluções tecnológicas personalizadas
+* Engenharia aplicada e inovação digital
+* Projetos focados em eficiência, qualidade e impacto mensurável
+
+---
+
+## Fundadores
+
+**Rodrigo Rodrigues** 
+
+[![github2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudriguu2099)
+
+**Mateus Valentim** 
+
+[![github2](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mattsu014)
